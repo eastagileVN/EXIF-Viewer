@@ -1,0 +1,26 @@
+[
+    {"source": "app\/assistants\/stage-assistant.js"},
+    {"source": "app\/libs\/functions.js"},
+    {"source": "app\/libs\/myWqueue.js"},
+    {"source": "app\/libs\/binary-ajax.js"},
+    {"source": "app\/libs\/exif.js"},
+    {"source": "app\/models\/db.js"},
+    {"source": "app\/assistants\/dialogs\/choosestyledialog-assistant.js"},
+    {"source": "app\/assistants\/dialogs\/aboutdialog-assistant.js"},
+    {
+        "source": "app\/assistants\/albums-assistant.js",
+        "scenes": "albums"
+    },
+    {
+        "source": "app\/assistants\/images-assistant.js",
+        "scenes": "images"
+    },
+    {
+        "source": "app\/assistants\/show-assistant.js",
+        "scenes": "show"
+    },
+    {
+        "source": "app\/assistants\/showinfo-assistant.js",
+        "scenes": "showinfo"
+    }
+]

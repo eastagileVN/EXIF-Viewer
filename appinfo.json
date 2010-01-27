@@ -1,0 +1,9 @@
+{
+	"id": "com.palm.app.exifviewer",
+	"version": "0.8.0",
+	"vendor": "East Agile",
+	"type": "web",
+	"main": "index.html",
+	"title": "EXIF Viewer",
+	"icon": "icon.png"
+}
